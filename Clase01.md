@@ -1,9 +1,9 @@
 Ejercicios
 
-1) Las galletitas de Ema:
+**1) Las galletitas de Ema:
 Emanuel quiere cocinar galletitas y quiere un programa que lo ayude a saber que debe
 comprar y en caso que cuente con todos los ingredientes, informar que puede cocinar las
-galletas. La receta pide los siguientes ingredientes:
+galletas. La receta pide los siguientes ingredientes:**
 
 - 3 huevos
 - 1 barra de chocolate
