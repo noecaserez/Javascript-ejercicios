@@ -1,7 +1,8 @@
-# **Vamos hacer unos ejercicios con todo lo que vimos 😎**
+# **TERCERA CLASE 😎**
+
 Tercera Clase de [Coderhood](https://www.coderhood.dev/)
 
-### 1. Hacer una función que reciba un numero y que retorne verdadero si es par o falso en caso contrario.
+## 1. Hacer una función que reciba un numero y que retorne verdadero si es par o falso en caso contrario.
 
 ```
 function esPar(numero) {
@@ -19,12 +20,11 @@ console.log(esPar(333)); //False
 
 ```
 
-### 2. Hacer una función que reciba una serie de palabras separadas por espacios y que imprima la misma frase pero en orden inverso.
+## 2. Hacer una función que reciba una serie de palabras separadas por espacios y que imprima la misma frase pero en orden inverso.
 
 **Ejemplo 1:**
 
- > La sentencia sentencia for...of ejecuta un bloque de 
- > código para cada elemento de un objeto iterable, como lo son: String, Array,
+ > La sentencia sentencia for...of ejecuta un bloque de código para cada elemento de un objeto iterable, como lo son: String, Array,
 
 ```
 
@@ -42,8 +42,8 @@ console.log(palabraReversa("Hola")); // aloH
 
 **Ejemplo 2:**
 
->texto.split() - separa con un espacio cada caracter "Hola" -> "H","o","l","a"
->texto.reverse() - invierte el orden de cada caracter, el ultimo sera el primero
+>texto.split() - separa con un espacio cada caracter "Hola" -> "H","o","l","a".
+>texto.reverse() - invierte el orden de cada caracter, el ultimo sera el primero.
 >texto.join(") - Juntar todos los caracteres y quitar las comas.
 
 
@@ -58,13 +58,11 @@ console.log(stringInvertido("Hola que tal JS")); // SJ lat euq aloH
 ```
 
 
-### 3. Hacer una función que reciba como parámetro tres números enteros y que lo ordene de mayor a menor.
+## 3. Hacer una función que reciba como parámetro tres números enteros y que lo ordene de mayor a menor.
 
 ```
 console.clear();
 
-// Hacer una función que reciba como parámetro
-//tres números enteros y que lo ordene de mayor a menor.
 
 function obtenerMaxyMin(num1, num2, num3) {
   let numMayor = 0;
@@ -100,12 +98,16 @@ function obtenerMaxyMin(num1, num2, num3) {
   ) {
     numMedio = num3;
   }
-  console.log("Numeros menor: ", numMenor);
+  console.log("Numero menor: ", numMenor);
   console.log("Numero medio: ", numMedio);
   console.log("Numero mayor: ", numMayor);
 }
 
 console.log(obtenerMaxyMin(3, 25, 1));
+
+// Numero menor: 1
+// Numero medio: 3
+// Numero mayor: 25
 
 ```
 
