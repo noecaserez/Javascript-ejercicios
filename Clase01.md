@@ -1,6 +1,6 @@
-Ejercicios
+# Ejercicios
 
-**1) Las galletitas de Ema:
+## **1) Las galletitas de Ema:
 Emanuel quiere cocinar galletitas y quiere un programa que lo ayude a saber que debe
 comprar y en caso que cuente con todos los ingredientes, informar que puede cocinar las
 galletas. La receta pide los siguientes ingredientes:**
@@ -13,10 +13,10 @@ galletas. La receta pide los siguientes ingredientes:**
 Los ingredientes que tiene Ema tienen que ser variables al inicio del programa que sean
 faciles de editar.
 
-2) La tienda de ropa
+## **2) La tienda de ropa
 
 Una tienda de ropa desea tener un programa que le permita calcular los aumentos a sus
-prendas, para eso se tienen los datos:
+prendas, para eso se tienen los datos:**
 
 - precioDePrenda (que ronda entre los 1500 y 3000 pesos)
 - porcentajeDeAumento (que ronda entre el 25-100% )
@@ -26,10 +26,10 @@ Ademas, implementar las siguiente funcionalidades:
 - El programa debe informar en pantalla el precio final
 - El programa debe informar en pantalla 'Precio excedido' cuando el precio final supere los $4000
 
-3) Dia de paga
+## **3) Dia de paga
 
 En una pizzeria requieren un programa que calcule cuanto cobraran neto los repartides al
-final del dia (Todos cobran igual)
+final del dia (Todos cobran igual)**
 
 Se tienen los siguientes datos obligatorios:
 - repartidores (Cantidad de repartidores, puede ser cualquier numero entero)
